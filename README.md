@@ -5,7 +5,7 @@
 
 ## Fork & Pull Request
 
-- Tensorflow 프로젝트를 FOrk 하시고
+- Tensorflow 프로젝트를 Fork 하시고
 - 코드 수정 후 Push & Pull Request 해주세요
 
 ## Mockup Tool List
