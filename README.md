@@ -29,3 +29,8 @@ public class HelloWorld {
 
 }
 ```
+
+## 추가작업내역
+
+README.md 수정 처리했습니다.
+
