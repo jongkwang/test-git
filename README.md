@@ -30,4 +30,5 @@ public class HelloWorld {
 }
 ```
 
-#좋은 
+#좋은 특강 감사합니다
+
