@@ -2,7 +2,7 @@
 
 > 2019.05.15
 > 강사 : 김종광
-
+> 교육생 : 류근재
 ## Fork & Pull Request
 
 - Tensorflow 프로젝트를 FOrk 하시고
